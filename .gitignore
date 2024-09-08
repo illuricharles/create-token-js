@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build and output directories
+dist/
+build/
+
+# Coverage directory
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Compiled files
+*.out
+*.exe
+*.dll
